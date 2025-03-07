@@ -38,6 +38,8 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 # 📌 Project Result
 
+[Click here to get full code](https://github.com/gokuljujgar07/Maven_Movies_Rental_Business/blob/main/MAVEN_MOVIES_CODE.sql)
+
 ---
 
 # 🔍 Query Task
